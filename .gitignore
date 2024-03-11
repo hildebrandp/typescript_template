@@ -1,0 +1,12 @@
+# Ignore DS-Store
+.DS_Store
+
+# Ignore dist folder
+dist
+
+# Ignore Node Modules
+node_modules
+
+
+#Ignore Package-Lock json file
+package-lock.json
